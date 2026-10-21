@@ -1,0 +1,8 @@
+{
+  "name": "펭귄의 알제브라 오디세이: 현대대수 모바일 퍼즐",
+  "description": "귀여운 펭귄 이모티콘 캐릭터와 함께 밝고 경쾌한 디자인으로 배우는 현대대수학(군론, 대칭군, 환, 체, 케일리 테이블) 모바일 퍼즐 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
